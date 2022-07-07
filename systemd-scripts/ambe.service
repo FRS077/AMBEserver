@@ -1,0 +1,12 @@
+[Unit]
+
+Description= ambe BlueDV  Service 
+After=syslog.target network.target
+
+[Service]
+User=root
+WorkingDirectory=/home/pi/AMBEServer
+ExecStart=/usr/bin/AMBEserver -s 460800
+
+[Install]
+WantedBy=multi-user.target
