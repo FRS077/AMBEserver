@@ -26,7 +26,7 @@ sudo make install
 ### Usage
 
 ```
-AMBEserver -s 460800
+sudo AMBEserver -s 460800
 ```
 
 -d Daemon Mode  
