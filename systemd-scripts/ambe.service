@@ -1,6 +1,6 @@
 [Unit]
 
-Description= ambe BlueDV  Service 
+Description= ambe BlueDV Service 
 After=syslog.target network.target
 
 [Service]
