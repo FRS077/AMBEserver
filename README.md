@@ -17,8 +17,10 @@ All contributions and feedback are much appreciated, as I am *not* an experience
 To build AMBESever, run-
 
 ```
-make
-make install
+sudo git clone https://github.com/FRS077/AMBEserver.git
+cd AMBEServer
+sudo make
+sudo make install
 ```
 
 ### Usage
