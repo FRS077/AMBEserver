@@ -26,7 +26,7 @@ sudo make install
 ### Usage
 
 ```
-AMBEserver [-d] [-r] [-s speed] [-p port] [-i tty] [-v] [-x] [-o]
+AMBEserver -s 460800
 ```
 
 -d Daemon Mode  
